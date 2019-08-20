@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0EA96C00230C081600251928 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA96BFF230C081600251928 /* test.swift */; };
 		0ED3129D230AE5F5002F6D41 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED3129C230AE5F5002F6D41 /* AppDelegate.swift */; };
 		0ED3129F230AE5F5002F6D41 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED3129E230AE5F5002F6D41 /* ViewController.swift */; };
 		0ED312A2230AE5F5002F6D41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ED312A0230AE5F5002F6D41 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0EA96BFF230C081600251928 /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 		0ED31299230AE5F5002F6D41 /* gitHubExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitHubExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ED3129C230AE5F5002F6D41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0ED3129E230AE5F5002F6D41 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				0ED312A8230AE5F7002F6D41 /* LaunchScreen.storyboard */,
 				0ED312AB230AE5F7002F6D41 /* Info.plist */,
 				0ED312A3230AE5F5002F6D41 /* gitHubExample.xcdatamodeld */,
+				0EA96BFF230C081600251928 /* test.swift */,
 			);
 			path = gitHubExample;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0ED3129F230AE5F5002F6D41 /* ViewController.swift in Sources */,
+				0EA96C00230C081600251928 /* test.swift in Sources */,
 				0ED312A5230AE5F5002F6D41 /* gitHubExample.xcdatamodeld in Sources */,
 				0ED3129D230AE5F5002F6D41 /* AppDelegate.swift in Sources */,
 			);
